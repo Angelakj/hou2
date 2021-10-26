@@ -1,0 +1,23 @@
+{
+  "id": "2836737",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "658044",
+      "name": "解锁",
+      "font_class": "jiesuo",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "1727459",
+      "name": "224用户",
+      "font_class": "yonghu",
+      "unicode": "e8c8",
+      "unicode_decimal": 59592
+    }
+  ]
+}

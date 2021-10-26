@@ -1,0 +1,29 @@
+.goods-body{
+    width: 97%;
+    height: 590px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 11px;
+    .main-boyd-add{
+        width: 100%;
+        display: flex;
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }
+    .main-body-paging{
+        margin-top: 10px;
+    }
+    .goods-body-metat{
+        width: 100%;
+        height: 503px;
+        overflow-x: auto;
+    }
+    ::v-deep{
+        .el-dialog{
+            height: auto;
+        }
+        .el-form-item__content{
+            width: 450px;
+        }
+    }
+}
